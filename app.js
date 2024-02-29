@@ -1,4 +1,4 @@
 function sayHi() {
-  return "Hi Mahdi how are you??";
+  return console.log("Mahdi is DEV");
 }
 sayHi();
